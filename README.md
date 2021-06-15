@@ -1,11 +1,14 @@
-# Review-Scrapper-Project
-This project is used to scrap the reviews from Flipkart website.
+# Review Scrapper Project
 
-Main applications is created in Python using Flask.
+* This project is used to scrap the reviews from Flipkart website.
 
-HTML and CSS styles sheets are used for user interface.
+* Main applications is created in Python using Flask API.
 
-App deployed on Heroku Cloud Platform
-Link for Application - https://reviewscrapper-ineuron.herokuapp.com/
+* HTML and CSS styles sheets are used for user interface.
 
-Code referred from Ineuron.ai (ML masters with Deployment and Deep Learning Course)
+* Database used is MongoDB
+
+* App deployed on Heroku Cloud Platform
+  Link for Application - https://reviewscrapper-ineuron.herokuapp.com/
+
+> Code referred from Ineuron.ai (ML masters with Deployment and Deep Learning Course)
